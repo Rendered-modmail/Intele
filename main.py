@@ -702,7 +702,7 @@ def tavily_search(query):
         query=query,
         search_depth="advanced",
         include_raw_content=True,
-        max_results=8,
+        max_results=3,
     )
 
 

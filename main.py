@@ -639,7 +639,7 @@ HTML = """
       query.value = "";
       autoSize();
       send.disabled = true;
-      setStatus("Researching with Tavily...");
+      setStatus("Researching with BryanAI...");
 
       const assistant = addMessage("assistant thinking", "");
       const streamer = makeWordStreamer(assistant.bubble);

@@ -498,7 +498,7 @@ HTML = """
         <button type="button"><span class="icon">?</span>Help</button>
         <div class="sidebar-note">
           <strong>Daily research chat</strong>
-          Ask anything. Tavily gathers live sources, then Groq writes a cited essay-style answer.
+          Ask anything. Write an essay. BryanAI is still in beta, expect problems.
         </div>
       </div>
     </aside>
@@ -506,7 +506,7 @@ HTML = """
     <main class="main">
       <header class="topbar">
         <div>
-          <span class="title">ResearchGPT</span>
+          <span class="title"InteleAI</span>
           <span class="model">{{ model }}</span>
         </div>
         <div class="auth">

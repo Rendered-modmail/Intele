@@ -506,7 +506,7 @@ HTML = """
     <main class="main">
       <header class="topbar">
         <div>
-          <span class="title"InteleAI</span>
+          <span class="title">InteleAI</span>
           <span class="model">{{ model }}</span>
         </div>
         <div class="auth">

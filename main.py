@@ -507,7 +507,7 @@ HTML = """
       <header class="topbar">
         <div>
           <span class="title">InteleAI</span>
-          <span class="model">BryanAI</span>
+          <span class="model">BryanAI Model 1.4</span>
         </div>
         <div class="auth">
           <button class="pill primary" type="button">Log in</button>

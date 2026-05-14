@@ -27,7 +27,7 @@ HTML = """
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AI Research Assistant</title>
+  <titleInteleAI By Bryan</title>
   <style>
     :root {
       --bg: #ffffff;

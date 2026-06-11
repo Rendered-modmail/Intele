@@ -479,29 +479,20 @@ HTML = """
   </style>
 </head>
 <body>
-  <div class="app">
-    <aside class="sidebar">
-      <div class="brand">
-        <span class="mark">AI</span>
-        <span class="icon">[]</span>
-      </div>
-      <button class="new-chat" id="newChat"><span class="icon">+</span>New chat</button>
-      <nav class="nav">
-        <button type="button"><span class="icon">/</span>Search chats</button>
-        <button type="button"><span class="icon">E</span>Essays</button>
-        <button type="button"><span class="icon">R</span>Research</button>
-        <button type="button"><span class="icon">*</span>Deep research</button>
-      </nav>
-      <div class="sidebar-bottom nav">
-        <button type="button"><span class="icon">S</span>Sources</button>
-        <button type="button"><span class="icon">:</span>Settings</button>
-        <button type="button"><span class="icon">?</span>Help</button>
-        <div class="sidebar-note">
-          <strong>Daily research chat</strong>
-          Ask anything. Write an essay. BryanAI is still in beta, expect problems.
-        </div>
-      </div>
-    </aside>
+ <div class="app">
+  <aside class="sidebar">
+    <div class="brand">
+      <span class="mark">AI</span>
+      <span class="icon">[]</span>
+    </div>
+
+    <div class="sidebar-note">
+      <strong>Daily research chat</strong>
+      Ask anything. Write an essay. BryanAI is still in beta, expect problems.
+    </div>
+  </aside>
+</div>
+
 
     <main class="main">
       <header class="topbar">
